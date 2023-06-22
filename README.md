@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi GitHub Comunity!! 👋
 
-<!--
-**MiguelSRuedadR/MiguelSruedadR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+I`m Miguel and studing Full stack web developed... 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
